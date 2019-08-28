@@ -4,7 +4,7 @@ The code is written in Jupyter Notebook which is available in Ananconda Navigato
 # Modules needed:
       -opencv ver3.4.1 
 # Steps to install the module
-    pip install opencv-python
+    pip install opencv-python 
 # Files needed :
     -haarcascade_frontalface_default.xml
     -haarcascade_eye.xml
