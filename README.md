@@ -9,7 +9,7 @@ The code is written in Jupyter Notebook which is available in Ananconda Navigato
 # Files needed :    
     -haarcascade_frontalface_default.xml
     -haarcascade_eye.xml
-    -haarcascade_smile.xml  
+    -haarcascade_smile.xml 
  Note: These above files must be in the same working directory    
  
  
