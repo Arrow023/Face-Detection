@@ -1,6 +1,6 @@
 # Face-recognition 
 This directory contains the code for face detection 
-The code is written in Jupyter Notebook which is available in Ananconda Navigator 
+The code is written in Jupyter Notebook which is available in Ananconda Navigator
 # Modules needed:
       -opencv ver3.4.1 
 # Steps to install the module
